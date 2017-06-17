@@ -2,7 +2,7 @@
 # Cookbook:: gravcms
 # Recipe:: apache
 #
-# Copyright:: 2017, The Authors, All Rights Reserved.
+# Copyright:: 2017, Graham Williams @ corekode, All Rights Reserved.
 # Install httpd/Apache package
 
 if node['platform_family'] == 'rhel'
